@@ -7,7 +7,7 @@ If you already have this repository on your machine, use that copy directly:
 
 ```bash
 cd /path/to/your/painter-repo
-git pull origin <branch-name>
+git pull origin [branch-name]
 ```
 
 Use the branch you want to update (for example: `main`).
